@@ -19,7 +19,7 @@ This project was built using:
 ## 📁 Project Structure
 
 ```
-drinksearch/
+Drink-Search/
 
 ├── index.html
 ├── css/
